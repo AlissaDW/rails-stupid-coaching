@@ -17,7 +17,7 @@
   margin: auto;
   width : 50%;
   padding : 25px auto;
-  border-left: 3px solid #D4D4D4;
+  border-left: 3px solid #B0B0B0;
 }
 .button-answer{
   margin: auto;
